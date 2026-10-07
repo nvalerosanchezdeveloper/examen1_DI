@@ -1,3 +1,7 @@
-public class Vehiculo {
+public abstract class Vehiculo {
+
+   String marca;
+   int km;
+
 
 }
