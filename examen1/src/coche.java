@@ -1,2 +1,2 @@
-public class coche {
+public class coche extends Vehiculo {
 }
