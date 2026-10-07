@@ -1,2 +1,6 @@
-public class coche extends Furgoneta {
+public class Furgoneta extends Vehiculo {
+
+    public Furgoneta(String marca) {
+        super(marca);
+    }
 }
